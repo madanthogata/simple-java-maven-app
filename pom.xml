@@ -6,7 +6,7 @@
 	<groupId>com.nexturn.app</groupId>
 	<artifactId>nexturn-poc-app</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.8</version>
+	<version>1.0.9</version>
 	<name>nexturn-poc-app</name>
 	<url>http://maven.apache.org</url>
 	<distributionManagement>
